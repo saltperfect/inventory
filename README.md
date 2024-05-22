@@ -18,9 +18,13 @@ Follow these steps to run the application using Docker Compose:
 ```sh
 git clone https://github.com/saltperfect/inventory.git
 cd inventory
+```
 
-### Step 1: Run the command
+### Step 2: Run the command
 
 ```sh
 docker-compose up --build
+```
+
+### Step 3: Use the postman collection given to run the apis
 
