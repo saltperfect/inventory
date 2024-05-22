@@ -18,3 +18,9 @@ Follow these steps to run the application using Docker Compose:
 ```sh
 git clone https://github.com/saltperfect/inventory.git
 cd inventory
+
+### Step 1: Run the command
+
+```sh
+docker-compose up --build
+
